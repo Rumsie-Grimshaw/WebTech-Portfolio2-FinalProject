@@ -1,0 +1,16 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "- - - \r ## Project Description:\r The purpose of this project is to plan, design and build a website to serve as a portfolio for current and future \r programming projects.\r - - -\r # Website RGB Hexadecimal  Values \r | Name            | RGB           | HEX     |\r |-----------------|---------------|---------|\r | black           | 0, 0, 0       | #000000 |\r | white           | 255, 255, 255 | #FFFFFF |\r | black pearl     | 20, 34, 47    | #14222F |\r | iris blue       | 0, 173, 181   | #00ADB5 |\r | quiet abyss     | 57, 62, 70    | #200440 |\r | amarklor violet | 76, 9, 153    | #4c0999 |",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./assets/css/site.css --watch",
+    "prettier": "npx prettier --write **/*.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier-plugin-tailwindcss": "^0.6.9"
+  }
+}
