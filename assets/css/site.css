@@ -1328,6 +1328,10 @@ video {
     flex-direction: row;
   }
 
+  .xl\:flex-row-reverse {
+    flex-direction: row-reverse;
+  }
+
   .xl\:justify-center {
     justify-content: center;
   }
