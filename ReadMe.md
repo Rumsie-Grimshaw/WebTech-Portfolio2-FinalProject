@@ -10,6 +10,6 @@ programming projects.
 | black           | 0, 0, 0       | #000000 |
 | white           | 255, 255, 255 | #FFFFFF |
 | black pearl     | 20, 34, 47    | #14222F |
-| iris blue       | 0, 173, 181   | #00ADB5 |
-| quiet abyss     | 57, 62, 70    | #200440 |
+| lime green      | 0, 181, 0     | #00b500 |
+| grey            | 55, 65, 81    | #374151 |
 | amarklor violet | 76, 9, 153    | #4c0999 |
